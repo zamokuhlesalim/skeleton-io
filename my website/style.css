@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+.backround
+{
+    height: 100vh;
+    background-image:url(images/skeleton\ \(2\).jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:white ;
+    font-size: 38px;
+    display: flex;
+    justify-content: flex-end;
+}
+.card
+{
+    background-color: rgb(129, 127, 255);
+    opacity: 0.7;
+    margin: 25px;
+    border: 2px solid black;
+    text-align: center;
+    width: 200px; 
+}
